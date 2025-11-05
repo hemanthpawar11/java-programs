@@ -1,0 +1,15 @@
+import.java.util.scanner
+class demo
+{
+	public static void main(String[] args) 
+	{
+		Scanner sc = newscanner(system.in)
+		System.out.println("pls enter a line:");
+		String line = new.nextline();
+		System.out.println("pls enter a word:");
+		String word = new.next();
+		System.out.println("line");
+		System.out.println("word");
+		
+	}
+}

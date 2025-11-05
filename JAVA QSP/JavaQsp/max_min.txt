@@ -1,0 +1,3 @@
+class max_min{
+public static void main (String[] args){
+ System.out.println(long.max_value);}}

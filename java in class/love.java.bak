@@ -1,0 +1,13 @@
+class love
+{
+	private String name "arjun";
+	public String getname() 
+	{
+		return name;
+	}
+		
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+	}
+}
